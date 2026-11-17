@@ -13631,6 +13631,12 @@ repositories:
       url: https://github.com/ros-drivers/transport_drivers.git
       version: main
     status: developed
+  trilayer:
+    source:
+      type: git
+      url: https://github.com/Doribelove/pudu_robot_ws.git
+      version: trilayer-humble-source
+    status: developed
   tsid:
     doc:
       type: git
